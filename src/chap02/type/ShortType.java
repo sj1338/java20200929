@@ -7,7 +7,7 @@ public class ShortType {
 	shortValue1 = 32767;
 	System.out.println(shortValue1);
 	
-//	shortValue1 = 32768; // x asd
+//	shortValue1 = 32768; // x
 	shortValue1 = -32768;
 	System.out.println(shortValue1);
 }
