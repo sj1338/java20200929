@@ -1,4 +1,5 @@
-package chap03.text;
+
+package chap03.textbook;
 
 public class DenyLogicOperatorExample {
 
