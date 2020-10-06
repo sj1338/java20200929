@@ -12,7 +12,7 @@ public class Variable {
 		// 변수의 선언
 		int myVar = 3;
 		myVar = 3;
-		myVar = "hello";
+//		myVar = "hello";
 		
 		System.out.println(myVar);
 		int myVar2 = 5;

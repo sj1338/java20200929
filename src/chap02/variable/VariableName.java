@@ -18,6 +18,6 @@ public class VariableName {
 		int a;
 		int a6;
 		
-		int public;
+//		int public;
 	}
 }
