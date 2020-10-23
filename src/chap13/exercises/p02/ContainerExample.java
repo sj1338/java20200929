@@ -1,4 +1,4 @@
-package chap13.exercises;
+package chap13.exercises.p02;
 
 public class ContainerExample {
 	public static void main(String[] args) {
@@ -9,5 +9,6 @@ public class ContainerExample {
 		Container<Integer> container2 = new Container<Integer>();
 		container2.set(6);
 		int value = container2.get();
+		
 	}
 }
